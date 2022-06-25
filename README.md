@@ -6,3 +6,5 @@ Includes:
 3. START cmd file, run this to be able to use this everywhere on your computer
 
 The minifier removes all comments and whitespace from your code and outputs the minified code into a new file named: min-filename.extension
+
+Requires Node.js to be installed.
